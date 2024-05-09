@@ -5,6 +5,7 @@
             "version": "none",
             "installMaven": "true"
         },
+        "ghcr.io/devcontainers/features/powershell:1": {},
         "ghcr.io/devcontainers/features/node:1": "none",
         "ghcr.io/devcontainers/features/git:1": {
             "version": "latest",
